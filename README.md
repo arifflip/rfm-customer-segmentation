@@ -5,7 +5,7 @@
 <img width="3840" height="1080" alt="image (4)" src="https://github.com/user-attachments/assets/f326f294-5424-4c18-bef5-b16ba264f5fc" />
 
 
-rfm customer segmentation dashboard ulr : https://lookerstudio.google.com/reporting/76f4ce60-48ed-4ae9-a5dc-5c6cd0c00df8
+rfm customer segmentation dashboard url : https://lookerstudio.google.com/reporting/76f4ce60-48ed-4ae9-a5dc-5c6cd0c00df8
 
 
 ----------------------------------------------------------------------
